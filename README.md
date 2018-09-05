@@ -72,7 +72,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 ## About
 
-Created by Fabricio Serralvo and Marcos Aoki.
+Created by Arun Ganessh
 
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
 [license-url]: LICENSE
